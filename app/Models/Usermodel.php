@@ -39,4 +39,4 @@ class Usermodel{
     }
 }
 
-$sql = "INSERT INTO `litlecms_db`.`user_table` (`id`, `name`, `email`, `phone`, `date`, `company`, `address`, `city`, `zip_code`, `country`, `location`, `isvisible`) VALUES (NULL, \'andy winarko\', \'winarcooo@gmail.com\', \'085776439349\', \'Jul 29, 2015\', \'detikcom\', \'jln masjid al akhyar\', \'depok\', \'16512\', \'indonesia\', \' -0.61665, 95.48208\', \'1\');";
+//$sql = "INSERT INTO `litlecms_db`.`user_table` (`id`, `name`, `email`, `phone`, `date`, `company`, `address`, `city`, `zip_code`, `country`, `location`, `isvisible`) VALUES (NULL, \'andy winarko\', \'winarcooo@gmail.com\', \'085776439349\', \'Jul 29, 2015\', \'detikcom\', \'jln masjid al akhyar\', \'depok\', \'16512\', \'indonesia\', \' -0.61665, 95.48208\', \'1\');";
